@@ -1,6 +1,6 @@
 ### Hi there 👋 , I'm Niki 
 
-Welcome! I'm a Data Scientist that is paasionate about Machine Learning and Computer Vision, with a solid background in Data Analytics. 
+Welcome! I'm a Data Scientist that is passionate about Machine Learning and Computer Vision, with a solid background in Data Analytics. 
 
 - 💬 Interessted topics: Machine Learning and Deep Learning frameworks
 - 👩🏻‍💻 Exciting projects: CNN, ANN, NLP
