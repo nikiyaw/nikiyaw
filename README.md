@@ -1,6 +1,11 @@
 ### Hi there , I'm Niki 👋
 
-I'm a Data Scientist that is passionate about Machine Learning and Computer Vision. I have previous internship experience, that has provided me with a solid foundation and encouragement to venture into more advanced roles.
+I'm a Data Scientist with a passion in Machine Learning and Computer Vision. I have a track record of managing data projects by increasing data utilization efficiency and model accuracy.
+
+Programming Languages: Python, SQL, R, MATLAB
+Frameworks: Scikit-learn, PyTorch, Tensorflow, Keras, OpenCV, Pandas, Numpy, Matplotlib
+Models: Deep learning (CNN, ANN etc.), Machine Learning (Linear/Non-linear Regressions, Logistic Regressions, KNN etc.)
+Concepts: ETL, API integration, Data wrangling, EDA, Statistical modelling, Model evaluation
 
 - 💬 Current Topics of Interest: Deep Learning frameworks
 - 👩🏻‍💻 Exciting projects: CNN, ANN, NLP-related
