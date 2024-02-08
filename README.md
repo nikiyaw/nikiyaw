@@ -1,6 +1,6 @@
 ### Hi there , I'm Niki 👋
 
-Welcome! I'm a Data Scientist that is passionate about Machine Learning and Computer Vision. I have previous internship experience, that has provided me with a solid foundation and encouragement to venture into more advanced roles.
+I'm a Data Scientist that is passionate about Machine Learning and Computer Vision. I have previous internship experience, that has provided me with a solid foundation and encouragement to venture into more advanced roles.
 
 - 💬 Current Topics of Interest: Deep Learning frameworks
 - 👩🏻‍💻 Exciting projects: CNN, ANN, NLP-related
