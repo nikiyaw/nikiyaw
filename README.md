@@ -1,4 +1,4 @@
-### Hi there , I'm Niki 👋
+### Hi, I'm Niki 👋
 
 I'm a Data Scientist with a passion in Machine Learning and Computer Vision. I have a track record of managing data projects by increasing data utilization efficiency and model accuracy.
 
