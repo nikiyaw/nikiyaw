@@ -1,6 +1,6 @@
 ### Hi, I'm Niki 👋
 
-I'm a Data Scientist with a passion in Machine Learning and Computer Vision. I have a track record of managing data projects by increasing data utilization efficiency and model accuracy.
+I'm a Data Scientist and currently building my portfolio with data projects in various fields, ranging from movie recommendation systems to house pricing predictors. I'm currently working on other projects that involved deep learning frameworks and NLP. 
 
 
 Programming Languages: Python, SQL, R, MATLAB
