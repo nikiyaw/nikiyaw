@@ -5,7 +5,7 @@ I'm a Data Analyst/Scientist, currently working as a research analyst in a susta
 
 Programming Languages: Python, SQL, R, MATLAB
 
-Frameworks: Scikit-learn, PyTorch, Tensorflow, Keras, OpenCV, Pandas, Numpy, Matplotlib
+Frameworks: Scikit-learn, PyTorch, Tensorflow, Keras, OpenCV, Pandas, Numpy, Matplotlib, Seaborn
 
 Models: Deep learning (CNN, ANN etc.), Machine Learning (Linear/Non-linear Regressions, Logistic Regressions, KNN etc.)
 
