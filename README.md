@@ -1,6 +1,6 @@
 ### Hi, I'm Niki 👋
 
-I'm a Data Analyst/Scientist, currently working as a research analyst in a sustainability research institution. My passion for data has lead me to continue learning and building my portfolio with data projects spanning across various fields, ranging from movie recommendation systems to fraud and anomaly detector. I'm currently working on other projects that involved deep learning frameworks and NLP. 
+I'm a Data Analyst/Scientist, currently working as a research analyst in a sustainability research institution. My passion for data has lead me to continue learning and building my portfolio with data projects spanning across various fields, ranging from movie recommendation systems to fraud and anomaly detector. I'm currently working on other projects that involve deep learning frameworks and NLP. 
 
 
 Programming Languages: Python, SQL, R, MATLAB
