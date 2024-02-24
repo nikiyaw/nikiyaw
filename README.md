@@ -1,6 +1,6 @@
 ### Hi, I'm Niki 👋
 
-I'm a Data Scientist and currently building my portfolio with data projects in various fields, ranging from movie recommendation systems to house pricing predictors. I'm currently working on other projects that involved deep learning frameworks and NLP. 
+I'm a Data Analyst/Scientist, currently working in a sustainibility research institution. My passion for data has lead me to continue learning and building my portfolio with data projects in various fields, ranging from movie recommendation systems to house pricing predictors. I'm currently working on other projects that involved deep learning frameworks and NLP. 
 
 
 Programming Languages: Python, SQL, R, MATLAB
