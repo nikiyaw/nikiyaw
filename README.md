@@ -8,7 +8,7 @@ Programming Languages: Python, SQL
 
 Technologies: AWS (S3, RDS, Lambda Function, EC2), PostgreSQL, BrightData
 
-Frameworks: Pandas, Numpy, Scikit-learn, PyTorch, Tensorflow, Keras, OpenCV, Matplotlib, Seaborn
+Frameworks: Pandas, Selenium, Numpy, Scikit-learn, PyTorch, Tensorflow, Keras, OpenCV, Matplotlib, Seaborn
 
 Models: Deep learning (CNN, ANN etc.), Machine Learning (Linear/Non-linear Regressions, Logistic Regressions, KNN etc.)
 
