@@ -1,15 +1,18 @@
 ### Hi, I'm Niki 👋
 
-I'm a Data Analyst/Scientist, currently working as a research analyst in a sustainability research institution. My passion for data has lead me to continue learning and building my portfolio with data projects spanning across various fields. I'm currently working on projects that involve deep learning frameworks and NLP. 
+I'm a Data Analyst/Scientist, currently working as a AI analyst in Divisin.ai. I'm responsible for building scalable pipelines for database ingestion, using methods ranging from deploying AWS Lambda Function, running Jupyter notebooks on EC2, tayloring SQL scripts for data validation and more. 
+I'm currently learning JavaScript and Java! 
 
 
-Programming Languages: Python, SQL, R, MATLAB
+Programming Languages: Python, SQL
 
-Frameworks: Scikit-learn, PyTorch, Tensorflow, Keras, OpenCV, Pandas, Numpy, Matplotlib, Seaborn
+Technologies: AWS (S3, RDS, Lambda Function, EC2), PostgreSQL, BrightData
+
+Frameworks: Pandas, Numpy, Scikit-learn, PyTorch, Tensorflow, Keras, OpenCV, Matplotlib, Seaborn
 
 Models: Deep learning (CNN, ANN etc.), Machine Learning (Linear/Non-linear Regressions, Logistic Regressions, KNN etc.)
 
-Concepts: ETL, API integration, Data wrangling, EDA, Statistical modelling, Model evaluation
+Concepts: ETL, Web scraping, Proxy Integration, API integration, Data wrangling, EDA, Statistical modelling, Model evaluation
 
 
 - 🔗 LinkedIn: <code><a href="https://www.linkedin.com/in/niki-yaw-8831b694/" target="_blank" title="LinkedIn Profile"><img alt="LinkedIn Logo" width="22" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png"> LinkedIn</a></code>
