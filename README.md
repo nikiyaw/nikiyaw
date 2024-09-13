@@ -1,8 +1,8 @@
 ### Hi, I'm Niki 👋
 
-I'm a Data Analyst/Data Scientist, looking to explore more opportunities in Software/Backend Engineering! I'm currently working as a Data Analyst/Engineer in Divisin.ai. I'm responsible for building scalable pipelines for database ingestion, using methods ranging from deploying AWS Lambda Function, running Jupyter notebooks on EC2, tayloring SQL scripts for data validation and more. 
-I'm currently learning JavaScript and Java! 
+I'm a Data Analyst, looking to explore more opportunities in Data Science and Data Engineering! I'm currently working as a Data Analyst/Engineer in Divisin.ai. I'm responsible for building scalable pipelines for database ingestion, while ensuring data integrity and accuracy.
 
+I'm currently learning JavaScript and Java! 
 
 Programming Languages: Python, SQL
 
