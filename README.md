@@ -5,4 +5,4 @@ Data Engineer by trade, Full Stack Developer in the making. Building pipelines t
 Learning bits and pieces by building. 
 
 - 🔗 LinkedIn: <code><a href="https://www.linkedin.com/in/niki-yaw-8831b694/" target="_blank" title="LinkedIn Profile">LinkedIn</a></code>
-- 📧 Email: nikiyaw.08@gmail.com
+- 📧 Email: nikiyql@gmail.com
